@@ -10,6 +10,9 @@ Please don't read this if you are not an instructor. Suppose to be used for lear
 - Best Coding Practices: Time vs Space / Commenting and Variable Naming
 
 ## Rules
-- Don't read read ahead. Do more problems don't read ahead
-- Authenticity is valued over validity 
-- Don't give solutions away
+- Don't read ahead. If you want more to do then do more questions! 
+- Authenticity is valued over validity !
+- Don't give solutions away!
+
+## Stuff
+- Every second days of class we start by doing a problem in groups and talk out our thinking 

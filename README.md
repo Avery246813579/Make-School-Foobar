@@ -9,6 +9,11 @@ Please don't read this if you are not an instructor. Suppose to be used for lear
 - Problems Under Pressure
 - Best Coding Practices: Time vs Space / Commenting and Variable Naming
 
+- Do Foobar
+- Excel at whiteboard interviews
+- Analyze questions and their parts
+
+
 ## Rules
 - Don't read ahead. If you want more to do then do more questions! 
 - Authenticity is valued over validity !

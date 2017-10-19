@@ -5,6 +5,9 @@
 1. Showing how to do the model with actual problem
 1. Practice Problems
 
+# Competencies
+1. Understand the steps needed to solve a problem 
+
 # Homework
 
 1. Create problems for people to do next class

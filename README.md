@@ -49,6 +49,8 @@ Please don't read this if you are not an instructor. Suppose to be used for lear
 
 1. Fill
     
+---  
+    
 ### 4. Apply Understanding 
 
 ---
@@ -57,6 +59,8 @@ Please don't read this if you are not an instructor. Suppose to be used for lear
 
 1. Fill
     
+---  
+
 ### 5. Solving The Problem 
 
 ---
@@ -64,6 +68,8 @@ Please don't read this if you are not an instructor. Suppose to be used for lear
 #### Competencies
 
 1. Fill
+
+---
     
 ### 6. Apply Solving
 
@@ -72,6 +78,8 @@ Please don't read this if you are not an instructor. Suppose to be used for lear
 #### Competencies
 
 1. Fill
+
+---
     
 ### 7. Revising the Problem
 
@@ -80,6 +88,8 @@ Please don't read this if you are not an instructor. Suppose to be used for lear
 #### Competencies
 
 1. Fill
+
+---
     
 ### 8. Applying Revising 
 
@@ -88,6 +98,8 @@ Please don't read this if you are not an instructor. Suppose to be used for lear
 #### Competencies
 
 1. Fill
+
+---
     
 ### 9. Perfect our Solution
 
@@ -96,7 +108,9 @@ Please don't read this if you are not an instructor. Suppose to be used for lear
 #### Competencies
 
 1. Fill
-    
+
+---    
+
 ### 10. Applying Perfection 
 
 ---
@@ -104,6 +118,8 @@ Please don't read this if you are not an instructor. Suppose to be used for lear
 #### Competencies
 
 1. Fill
+
+---
     
 ### 11. Reflection on Problem 
 
@@ -112,6 +128,8 @@ Please don't read this if you are not an instructor. Suppose to be used for lear
 #### Competencies
 
 1. Fill
+
+---
     
 ### 12. Wrapping up our Process 
 

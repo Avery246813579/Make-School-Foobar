@@ -17,16 +17,20 @@ Please don't read this if you are not an instructor. Suppose to be used for lear
 - Every second days of class we start by doing a problem in groups and talk out our thinking 
 
 ## Classes
-1. Introduction to Problem Solving
+
+### Introduction to Problem Solving
+    
     #### Competencies
-    1. Understand the steps needed to solve a problem 
+    1. Understand the steps needed to solve a problem
+     
     #### Classworks
     1. Info on Foobar and why class is important
     1. Power Point Presentation about Solving Method
     1. Showing how to do the model with actual problem
     1. Practice Problems
     
-1. Introduction Continued
+### Introduction Continued
+    
     #### Competencies
     1. Understand how to use the problem solving method on basic problems
 1. Understanding the Problem

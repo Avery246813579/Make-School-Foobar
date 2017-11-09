@@ -50,6 +50,15 @@ made a required class. The current CS 4 would be moved to CS 5.
 1. Showing how to do the model with actual problem
 1. Practice Problems
 
+#### Minute by Minute
+1-15: What is Foobar
+15-20: Competencies
+20-30: What can you use what we learned for
+30-70: Point Point Presentation on Solving Method
+70-75: Quick Break
+75-90: Show my method with a problem
+90-120: Let's do some problems
+
 #### Homework
 1. Create problems for people to do next class
 
@@ -66,7 +75,15 @@ made a required class. The current CS 4 would be moved to CS 5.
 # Classwork
 1. Practice each others problems
 1. Talk about why to use this method
-1. Go over methods we used 
+1. Go over methods we used
+
+#### Minute by Minute
+0-15: Pair up with a partner and talk about the problem you made
+15-25: Switch partners
+25-60: ASk for best problem and have everyone do it
+60-65: Break
+66-90: Talk about what makes a good question (brainstorm)
+90-120: Why do we use this problem solving methods
 
 # Homework
 1. Do to problem 5    
@@ -85,12 +102,22 @@ made a required class. The current CS 4 would be moved to CS 5.
 #### Classwork:
 1. Why do we need to understand problems
 1. Introduce drawing pictures
-1. Introduce being able to explain questions
+1. Introduce being able to explain questions: You should be able to
+explain it to someone who doesn't know how to code.
 1. Introduce Foobar Problem
+
+#### Minute by Minute
+0-30: Look at some peoples solutions to first few problems
+30-45: Why do we need to understand problems
+45-60: Introduce drawing a picture
+60-75: Being able to explain the code to someone
+75-80: Break
+80-90: Intro to what we will be doing with our two questions
+90-120: Going over the intro to our two questions
+
 
 #### Homework:
 1. Draw a picture for the foobar problems
-
     
     
 ---  
@@ -107,6 +134,13 @@ made a required class. The current CS 4 would be moved to CS 5.
 
 1. Go over 3 peoples pictures and have them explain it. Have them make betters things
 1. Try problems with new found knowledge
+
+#### Minute by Minute
+0-45: Go over some of the pictures people drew for our two problems
+45-70: What made these pictures good and bad
+70-75: Break
+75-90: In group solve a draw a picture for a problem I give
+90-120: Go over the pictures
 
 #### Homework
 
@@ -128,6 +162,8 @@ made a required class. The current CS 4 would be moved to CS 5.
 1. Talk about problems for homework
 1. Explain how to start a problem
 1. Give foobar test cases and talk about how to start problem
+
+#### Minute by Minute
 
 #### Homework
 1. Solve problem for foobar
